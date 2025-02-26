@@ -1,0 +1,4 @@
+echo "Flask\npandas\ngunicorn" > requirements.txt
+git add requirements.txt
+git commit -m "Added requirements.txt for Render deployment"
+git push
